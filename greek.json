@@ -1,0 +1,401 @@
+[
+  {
+    "title": "Moussaka",
+    "cuisine": "Greek",
+    "ingredients": [
+      "2 eggplants, sliced",
+      "1 pound ground lamb",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 cup crushed tomatoes",
+      "2 tablespoons tomato paste",
+      "1/2 cup red wine",
+      "1 teaspoon cinnamon",
+      "2 tablespoons olive oil",
+      "2 cups béchamel sauce",
+      "1/2 cup grated Kefalotyri cheese",
+      "Salt and pepper to taste"
+    ],
+    "method": [
+      "Salt eggplant slices and let them rest 20 minutes, then pat dry.",
+      "Brush with olive oil and roast until lightly browned.",
+      "In a pan, sauté onion and garlic in olive oil until soft.",
+      "Add ground lamb and cook until browned.",
+      "Stir in tomato paste, crushed tomatoes, wine, cinnamon, salt, and pepper; simmer 20 minutes.",
+      "Layer eggplant and meat sauce in a baking dish.",
+      "Pour béchamel over the top and sprinkle with cheese.",
+      "Bake at 375°F (190°C) for 40 minutes until golden."
+    ],
+    "prep_time": 40,
+    "cook_time": 60,
+    "total_time": 100,
+    "popularity": 9100,
+    "tags": ["dinner", "baked"],
+    "location": { "lat": 37.9838, "lon": 23.7275 }
+  },
+  {
+    "title": "Souvlaki",
+    "cuisine": "Greek",
+    "ingredients": [
+      "1 pound pork or chicken, cubed",
+      "2 tablespoons olive oil",
+      "1 lemon, juiced",
+      "2 cloves garlic, minced",
+      "1 teaspoon oregano",
+      "Salt and pepper",
+      "Wooden skewers"
+    ],
+    "method": [
+      "Mix olive oil, lemon juice, garlic, oregano, salt, and pepper.",
+      "Marinate meat cubes in the mixture for at least 1 hour.",
+      "Thread the meat onto skewers.",
+      "Grill over medium-high heat for 10–12 minutes, turning occasionally.",
+      "Serve hot with pita bread and tzatziki."
+    ],
+    "prep_time": 20,
+    "cook_time": 12,
+    "total_time": 32,
+    "popularity": 8900,
+    "tags": ["dinner", "grilled", "street food"],
+    "location": { "lat": 37.9838, "lon": 23.7275 }
+  },
+  {
+    "title": "Greek Salad (Horiatiki)",
+    "cuisine": "Greek",
+    "ingredients": [
+      "3 tomatoes, chopped",
+      "1 cucumber, sliced",
+      "1/2 red onion, thinly sliced",
+      "1/2 cup Kalamata olives",
+      "4 ounces feta cheese",
+      "3 tablespoons olive oil",
+      "1 teaspoon oregano",
+      "Salt to taste"
+    ],
+    "method": [
+      "Combine tomatoes, cucumber, onion, and olives in a bowl.",
+      "Place a block of feta on top.",
+      "Drizzle olive oil over the salad.",
+      "Sprinkle oregano and salt.",
+      "Toss lightly before serving."
+    ],
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "popularity": 8700,
+    "tags": ["salad", "vegetarian", "lunch"],
+    "location": { "lat": 36.3932, "lon": 25.4615 }
+  },
+  {
+    "title": "Spanakopita",
+    "cuisine": "Greek",
+    "ingredients": [
+      "1 pound spinach",
+      "1 onion, chopped",
+      "2 eggs",
+      "1 cup feta cheese",
+      "1/4 cup dill, chopped",
+      "8 sheets phyllo dough",
+      "4 tablespoons olive oil",
+      "Salt and pepper"
+    ],
+    "method": [
+      "Sauté onion until soft, then add spinach and cook until wilted.",
+      "Mix spinach mixture with eggs, feta, dill, salt, and pepper.",
+      "Layer phyllo sheets in an oiled baking dish.",
+      "Spread the spinach filling evenly.",
+      "Cover with remaining phyllo sheets, brushing with oil.",
+      "Bake at 375°F (190°C) for 35–40 minutes until golden."
+    ],
+    "prep_time": 30,
+    "cook_time": 40,
+    "total_time": 70,
+    "popularity": 8300,
+    "tags": ["baked", "vegetarian", "snack"],
+    "location": { "lat": 40.6401, "lon": 22.9444 }
+  },
+  {
+    "title": "Dolmades",
+    "cuisine": "Greek",
+    "ingredients": [
+      "30 grape leaves",
+      "1 cup rice",
+      "1 onion, finely chopped",
+      "2 tablespoons olive oil",
+      "2 tablespoons dill",
+      "1 lemon, juiced",
+      "Salt and pepper"
+    ],
+    "method": [
+      "Sauté onion in olive oil until soft.",
+      "Add rice, dill, salt, and pepper and cook briefly.",
+      "Place a spoonful of filling on each grape leaf and roll tightly.",
+      "Arrange rolls in a pot and cover with water and lemon juice.",
+      "Simmer for 35 minutes until rice is tender."
+    ],
+    "prep_time": 35,
+    "cook_time": 35,
+    "total_time": 70,
+    "popularity": 7200,
+    "tags": ["appetizer", "vegetarian"],
+    "location": { "lat": 38.2466, "lon": 21.7346 }
+  },
+  {
+    "title": "Tzatziki",
+    "cuisine": "Greek",
+    "ingredients": [
+      "1 cup Greek yogurt",
+      "1 cucumber, grated",
+      "2 cloves garlic, minced",
+      "1 tablespoon olive oil",
+      "1 tablespoon lemon juice",
+      "1 tablespoon dill",
+      "Salt"
+    ],
+    "method": [
+      "Drain grated cucumber to remove excess liquid.",
+      "Mix yogurt, cucumber, garlic, olive oil, lemon juice, dill, and salt.",
+      "Chill for at least 30 minutes before serving."
+    ],
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "popularity": 8600,
+    "tags": ["dip", "vegetarian"],
+    "location": { "lat": 37.9838, "lon": 23.7275 }
+  },
+  {
+    "title": "Pastitsio",
+    "cuisine": "Greek",
+    "ingredients": [
+      "14 ounces pasta",
+      "1 pound ground beef",
+      "1 onion, chopped",
+      "2 cups tomato sauce",
+      "1 teaspoon cinnamon",
+      "2 cups béchamel sauce",
+      "1/2 cup grated cheese",
+      "Salt and pepper"
+    ],
+    "method": [
+      "Cook pasta until al dente.",
+      "Brown ground beef with onion.",
+      "Add tomato sauce, cinnamon, salt, and pepper; simmer 15 minutes.",
+      "Layer pasta, meat sauce, and béchamel in a baking dish.",
+      "Top with grated cheese.",
+      "Bake at 375°F (190°C) for 40 minutes."
+    ],
+    "prep_time": 30,
+    "cook_time": 40,
+    "total_time": 70,
+    "popularity": 8000,
+    "tags": ["dinner", "pasta", "baked"],
+    "location": { "lat": 37.9838, "lon": 23.7275 }
+  },
+  {
+    "title": "Baklava",
+    "cuisine": "Greek",
+    "ingredients": [
+      "12 sheets phyllo dough",
+      "2 cups chopped walnuts",
+      "1/2 cup butter, melted",
+      "1 cup sugar",
+      "1/2 cup honey",
+      "1 cup water",
+      "1 teaspoon cinnamon"
+    ],
+    "method": [
+      "Layer buttered phyllo sheets in a baking dish.",
+      "Sprinkle walnuts and cinnamon between layers.",
+      "Top with remaining phyllo and butter.",
+      "Bake at 350°F (175°C) for 40 minutes.",
+      "Simmer sugar, honey, and water into syrup.",
+      "Pour syrup over hot baklava."
+    ],
+    "prep_time": 30,
+    "cook_time": 40,
+    "total_time": 70,
+    "popularity": 9400,
+    "tags": ["dessert", "pastry"],
+    "location": { "lat": 39.0742, "lon": 21.8243 }
+  },
+  {
+    "title": "Loukoumades",
+    "cuisine": "Greek",
+    "ingredients": [
+      "2 cups flour",
+      "1 teaspoon yeast",
+      "1 cup warm water",
+      "Oil for frying",
+      "1/2 cup honey",
+      "1 teaspoon cinnamon"
+    ],
+    "method": [
+      "Mix flour, yeast, and water into a smooth batter.",
+      "Let it rise until doubled.",
+      "Drop spoonfuls into hot oil and fry until golden.",
+      "Drizzle with honey and sprinkle with cinnamon."
+    ],
+    "prep_time": 20,
+    "cook_time": 20,
+    "total_time": 40,
+    "popularity": 7800,
+    "tags": ["dessert", "fried", "street food"],
+    "location": { "lat": 37.9838, "lon": 23.7275 }
+  },
+  {
+    "title": "Fasolada",
+    "cuisine": "Greek",
+    "ingredients": [
+      "2 cups white beans",
+      "1 onion, chopped",
+      "2 carrots, chopped",
+      "2 celery stalks, chopped",
+      "2 cups tomato sauce",
+      "4 tablespoons olive oil",
+      "Salt and pepper"
+    ],
+    "method": [
+      "Soak beans overnight and cook until tender.",
+      "Sauté onion, carrots, and celery in olive oil.",
+      "Add cooked beans and tomato sauce.",
+      "Simmer for 40 minutes until flavors meld.",
+      "Season and serve."
+    ],
+    "prep_time": 20,
+    "cook_time": 60,
+    "total_time": 80,
+    "popularity": 6200,
+    "tags": ["soup", "vegan"],
+    "location": { "lat": 38.2466, "lon": 21.7346 }
+  },
+  {
+    "title": "Gyros",
+    "cuisine": "Greek",
+    "ingredients": [
+      "1 pound pork or chicken slices",
+      "2 tablespoons olive oil",
+      "1 teaspoon oregano",
+      "1 teaspoon paprika",
+      "Salt and pepper",
+      "4 pita breads",
+      "1 tomato, sliced",
+      "1 onion, sliced",
+      "Tzatziki sauce"
+    ],
+    "method": [
+      "Season meat with olive oil, oregano, paprika, salt, and pepper.",
+      "Cook in a hot pan or grill until browned.",
+      "Warm pita bread.",
+      "Fill pita with meat, tomato, onion, and tzatziki.",
+      "Wrap and serve."
+    ],
+    "prep_time": 15,
+    "cook_time": 15,
+    "total_time": 30,
+    "popularity": 9100,
+    "tags": ["street food", "dinner"],
+    "location": { "lat": 37.9838, "lon": 23.7275 }
+  },
+  {
+    "title": "Kleftiko",
+    "cuisine": "Greek",
+    "ingredients": [
+      "2 pounds lamb",
+      "4 potatoes, chopped",
+      "1 lemon, sliced",
+      "4 cloves garlic",
+      "2 tablespoons olive oil",
+      "1 teaspoon oregano",
+      "Salt and pepper"
+    ],
+    "method": [
+      "Season lamb with olive oil, garlic, oregano, salt, and pepper.",
+      "Place lamb, potatoes, and lemon in a baking dish.",
+      "Cover tightly with foil.",
+      "Bake at 325°F (160°C) for 2 hours until tender."
+    ],
+    "prep_time": 20,
+    "cook_time": 120,
+    "total_time": 140,
+    "popularity": 7000,
+    "tags": ["dinner", "roasted"],
+    "location": { "lat": 35.3387, "lon": 25.1442 }
+  },
+  {
+    "title": "Saganaki",
+    "cuisine": "Greek",
+    "ingredients": [
+      "1 block kefalotyri or graviera cheese",
+      "1/2 cup flour",
+      "2 tablespoons olive oil",
+      "1 lemon wedge"
+    ],
+    "method": [
+      "Coat cheese lightly in flour.",
+      "Heat olive oil in a skillet.",
+      "Fry cheese until golden on both sides.",
+      "Serve immediately with lemon."
+    ],
+    "prep_time": 5,
+    "cook_time": 5,
+    "total_time": 10,
+    "popularity": 7600,
+    "tags": ["appetizer", "fried", "vegetarian"],
+    "location": { "lat": 40.6401, "lon": 22.9444 }
+  },
+  {
+    "title": "Avgolemono Soup",
+    "cuisine": "Greek",
+    "ingredients": [
+      "6 cups chicken broth",
+      "1/2 cup rice",
+      "2 eggs",
+      "1 lemon, juiced",
+      "Salt and pepper"
+    ],
+    "method": [
+      "Bring broth to a boil and cook rice until tender.",
+      "Whisk eggs and lemon juice together.",
+      "Slowly add hot broth to egg mixture while whisking.",
+      "Return mixture to soup and heat gently without boiling.",
+      "Season and serve."
+    ],
+    "prep_time": 10,
+    "cook_time": 25,
+    "total_time": 35,
+    "popularity": 6800,
+    "tags": ["soup"],
+    "location": { "lat": 37.9838, "lon": 23.7275 }
+  },
+  {
+    "title": "Galaktoboureko",
+    "cuisine": "Greek",
+    "ingredients": [
+      "10 sheets phyllo dough",
+      "4 cups milk",
+      "1/2 cup semolina",
+      "3/4 cup sugar",
+      "3 eggs",
+      "1 teaspoon vanilla",
+      "1 cup sugar for syrup",
+      "1 cup water",
+      "1 lemon peel"
+    ],
+    "method": [
+      "Heat milk with semolina and sugar to make a thick custard.",
+      "Stir in eggs and vanilla once slightly cooled.",
+      "Layer buttered phyllo in a baking dish and add custard.",
+      "Cover with remaining phyllo.",
+      "Bake at 350°F (175°C) for 40 minutes.",
+      "Simmer sugar, water, and lemon peel into syrup.",
+      "Pour syrup over hot pastry."
+    ],
+    "prep_time": 30,
+    "cook_time": 40,
+    "total_time": 70,
+    "popularity": 7900,
+    "tags": ["dessert", "pastry"],
+    "location": { "lat": 37.9838, "lon": 23.7275 }
+  }
+]

@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+header {
+  text-align: center;
+  padding: 10px;
+  font-size: 32px;
+  font-weight: bold;
+  background: #fafafa;
+  border-bottom: 1px solid #ddd;
+}
+
+.main-container {
+  display: flex;
+  flex: 1;
+}
+
+.sidebar {
+  width: 125px;
+  background: #f4f4f4;
+  padding: 20px;
+  border-right: 1px solid #ddd;
+  overflow-y: auto;
+}
+
+#searchBox {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+#results div {
+  padding: 8px 4px;
+  cursor: pointer;
+  border-bottom: 1px solid #ddd;
+}
+
+#results div:hover {
+  background: #eaeaea;
+}
+
+#content {
+  flex: 1;
+  padding: 10px;
+  overflow-y: auto;
+}
+
+#scatterplot {
+  padding: 20px;
+  overflow: visible;
+}
+
+#cuisineMenu button{
+  color:white;
+  background-color:chocolate;
+  font-size:large;
+}
+
+.recipe_next_to_scatterplot {
+  display: flex;
+}

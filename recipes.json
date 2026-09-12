@@ -1,0 +1,1336 @@
+[
+  {
+    "title": "Boeuf Bourguignon",
+    "cuisine": "French",
+    "ingredients": [
+      "3 cups Burgundy wine",
+      "2 onions, thinly sliced",
+      "2 carrots, chopped",
+      "2 tablespoons brandy",
+      "2 cloves garlic, crushed",
+      "10 whole black peppercorns",
+      "1 teaspoon salt",
+      "1 sprig fresh parsley",
+      "1 bay leaf",
+      "2 pounds beef chuck, cut into 2-inch cubes",
+      "4 tablespoons olive oil, divided",
+      "1/4 pound bacon, cubed",
+      "2 onions, chopped",
+      "3 tablespoons all-purpose flour",
+      "1 tablespoon tomato paste",
+      "1 (10.5 ounce) can beef broth",
+      "Salt and pepper to taste",
+      "4 tablespoons butter",
+      "1 pound mushrooms, sliced"
+    ],
+    "method": [
+      "Combine wine, sliced onions, carrots, brandy, garlic, peppercorns, salt, parsley, and bay leaf in a large bowl. Add beef, coat well, cover, and refrigerate for 24–48 hours.",
+      "Preheat oven to 300°F (150°C).",
+      "Strain beef and vegetables from marinade; reserve liquid. Pat beef dry.",
+      "Heat 2 tablespoons oil in a skillet and brown beef in batches. Transfer to a bowl.",
+      "Cook bacon in the same skillet until lightly browned; transfer to beef.",
+      "Deglaze skillet with 1 cup marinade, scraping browned bits; return liquid to reserved marinade.",
+      "Heat remaining oil and sauté chopped onions for 2–3 minutes. Add strained vegetables and cook briefly. Transfer to beef.",
+      "Stir flour into skillet drippings and cook 1–2 minutes. Add garlic and tomato paste.",
+      "Add broth, remaining marinade, salt, and pepper. Bring to a boil, whisking to remove lumps.",
+      "Pour liquid over beef and vegetables in a Dutch oven. Cover and bake for 3 hours, stirring occasionally.",
+      "Sauté mushrooms in butter until browned; stir into stew before serving."
+    ],
+    "prep_time": 30,
+    "cook_time": 180,
+    "total_time": 210,
+    "popularity": 7540,
+    "tags": ["dinner"],
+    "location": { "lat": 47.0526, "lon": 4.3830 }
+  },
+  {
+    "title": "Ratatouille",
+    "cuisine": "French",
+    "ingredients": [
+      "1 eggplant, diced",
+      "2 zucchinis, sliced",
+      "1 red bell pepper, chopped",
+      "1 yellow bell pepper, chopped",
+      "4 tomatoes, chopped",
+      "1 onion, sliced",
+      "3 cloves garlic, minced",
+      "4 tablespoons olive oil",
+      "1 teaspoon thyme",
+      "Salt and pepper to taste"
+    ],
+    "method": [
+      "Heat olive oil in a large pot and sauté onions and garlic until softened.",
+      "Add eggplant and cook for 5 minutes.",
+      "Add zucchini and bell peppers; cook until slightly tender.",
+      "Stir in tomatoes, thyme, salt, and pepper.",
+      "Reduce heat and simmer for 30–40 minutes until vegetables are soft and flavors meld."
+    ],
+    "prep_time": 20,
+    "cook_time": 40,
+    "total_time": 60,
+    "popularity": 4821,
+    "tags": ["vegetarian", "vegan", "dinner"],
+    "location": { "lat": 43.7034, "lon": 7.2663 }
+  },
+  {
+    "title": "French Onion Soup",
+    "cuisine": "French",
+    "ingredients": [
+      "4 large onions, thinly sliced",
+      "4 tablespoons butter",
+      "2 tablespoons olive oil",
+      "1 teaspoon sugar",
+      "1/2 cup white wine",
+      "6 cups beef broth",
+      "1 baguette, sliced",
+      "2 cups grated Gruyère",
+      "Salt and pepper to taste",
+      "1 teaspoon thyme"
+    ],
+    "method": [
+      "Melt butter with olive oil in a pot. Add onions and sugar; cook on low heat for 30–40 minutes until caramelized.",
+      "Add wine and reduce by half.",
+      "Add broth, thyme, salt, and pepper. Simmer for 20 minutes.",
+      "Toast baguette slices and top with Gruyère.",
+      "Ladle soup into bowls, top with cheese toasts, and broil until melted."
+    ],
+    "prep_time": 15,
+    "cook_time": 60,
+    "total_time": 75,
+    "popularity": 7012,
+    "tags": ["soup", "dinner"],
+    "location": { "lat": 48.8566, "lon": 2.3522 }
+  },
+  {
+    "title": "Quiche Lorraine",
+    "cuisine": "French",
+    "ingredients": [
+      "1 pie crust",
+      "6 slices bacon, chopped",
+      "1 cup Gruyère cheese, grated",
+      "3 eggs",
+      "1 cup heavy cream",
+      "1/4 teaspoon nutmeg",
+      "Salt and pepper to taste"
+    ],
+    "method": [
+      "Preheat oven to 375°F (190°C).",
+      "Blind-bake pie crust for 10 minutes.",
+      "Cook bacon until crisp; drain.",
+      "Whisk eggs, cream, nutmeg, salt, and pepper.",
+      "Spread bacon and cheese in crust; pour custard over.",
+      "Bake 30–35 minutes until set."
+    ],
+    "prep_time": 20,
+    "cook_time": 35,
+    "total_time": 55,
+    "popularity": 5340,
+    "tags": ["breakfast", "dinner"],
+    "location": { "lat": 48.6921, "lon": 6.1844 }
+  },
+  {
+    "title": "Bouillabaisse",
+    "cuisine": "French",
+    "ingredients": [
+      "1 pound white fish fillets",
+      "1/2 pound mussels",
+      "1/2 pound shrimp",
+      "2 tomatoes, chopped",
+      "1 fennel bulb, sliced",
+      "1 onion, chopped",
+      "3 cloves garlic, minced",
+      "1 teaspoon saffron",
+      "4 cups fish stock",
+      "3 tablespoons olive oil",
+      "Salt and pepper to taste"
+    ],
+    "method": [
+      "Heat olive oil and sauté onion, fennel, and garlic until softened.",
+      "Add tomatoes and saffron; cook 5 minutes.",
+      "Pour in fish stock and simmer 15 minutes.",
+      "Add fish, mussels, and shrimp; cook until seafood is done.",
+      "Season and serve with crusty bread."
+    ],
+    "prep_time": 25,
+    "cook_time": 45,
+    "total_time": 70,
+    "popularity": 3980,
+    "tags": ["dinner", "soup"],
+    "location": { "lat": 43.2965, "lon": 5.3698 }
+  },
+  {
+    "title": "Crêpes",
+    "cuisine": "French",
+    "ingredients": [
+      "1 cup flour",
+      "2 eggs",
+      "1 1/4 cups milk",
+      "2 tablespoons melted butter",
+      "1 tablespoon sugar",
+      "Pinch of salt"
+    ],
+    "method": [
+      "Whisk flour, sugar, and salt. Add eggs and milk gradually.",
+      "Whisk until smooth; rest batter 30 minutes.",
+      "Heat a lightly oiled pan and cook thin crêpes 1 minute per side."
+    ],
+    "prep_time": 10,
+    "cook_time": 20,
+    "total_time": 30,
+    "popularity": 8421,
+    "tags": ["breakfast", "dessert"],
+    "location": { "lat": 48.1173, "lon": -1.6778 }
+  },
+  {
+    "title": "Cassoulet",
+    "cuisine": "French",
+    "ingredients": [
+      "2 cups dried white beans",
+      "2 duck confit legs",
+      "1/2 pound sausage, sliced",
+      "1/2 pound pork belly, cubed",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "3 cloves garlic, minced",
+      "1 teaspoon thyme"
+    ],
+    "method": [
+      "Soak beans overnight and cook until tender.",
+      "Brown sausage and pork belly.",
+      "Combine beans, meats, tomatoes, garlic, and thyme in a casserole.",
+      "Bake at 300°F (150°C) for 2–3 hours until thick."
+    ],
+    "prep_time": 30,
+    "cook_time": 150,
+    "total_time": 180,
+    "popularity": 2890,
+    "tags": ["dinner"],
+    "location": { "lat": 43.6047, "lon": 1.4442 }
+  },
+  {
+    "title": "Tartiflette",
+    "cuisine": "French",
+    "ingredients": [
+      "2 pounds potatoes, sliced",
+      "1 reblochon cheese wheel",
+      "6 ounces bacon, chopped",
+      "1 onion, sliced",
+      "1/2 cup cream",
+      "Salt and pepper"
+    ],
+    "method": [
+      "Boil potatoes until tender.",
+      "Cook bacon and onions until soft.",
+      "Layer potatoes, bacon mixture, and cheese in a baking dish.",
+      "Bake at 375°F (190°C) for 30–40 minutes."
+    ],
+    "prep_time": 20,
+    "cook_time": 40,
+    "total_time": 60,
+    "popularity": 4100,
+    "tags": ["dinner"],
+    "location": { "lat": 45.8992, "lon": 6.1294 }
+  },
+  {
+    "title": "Madeleines",
+    "cuisine": "French",
+    "ingredients": [
+      "1 cup flour",
+      "2 eggs",
+      "1/2 cup sugar",
+      "1/2 cup melted butter",
+      "1 teaspoon lemon zest",
+      "1 teaspoon baking powder"
+    ],
+    "method": [
+      "Whisk eggs and sugar until pale.",
+      "Fold in flour, baking powder, zest, and butter.",
+      "Chill batter 1 hour.",
+      "Bake in madeleine molds at 375°F (190°C) for 10–12 minutes."
+    ],
+    "prep_time": 15,
+    "cook_time": 12,
+    "total_time": 27,
+    "popularity": 5210,
+    "tags": ["dessert"],
+    "location": { "lat": 49.1193, "lon": 6.1757 }
+  },
+  {
+    "title": "Clafoutis",
+    "cuisine": "French",
+    "ingredients": [
+      "2 cups cherries",
+      "3 eggs",
+      "1 cup milk",
+      "1/2 cup sugar",
+      "1/2 cup flour",
+      "1 teaspoon vanilla"
+    ],
+    "method": [
+      "Preheat oven to 350°F (175°C).",
+      "Arrange cherries in a buttered dish.",
+      "Whisk eggs, milk, sugar, flour, and vanilla.",
+      "Pour over cherries and bake 35 minutes."
+    ],
+    "prep_time": 15,
+    "cook_time": 35,
+    "total_time": 50,
+    "popularity": 3670,
+    "tags": ["dessert"],
+    "location": { "lat": 45.8336, "lon": 1.2611 }
+  },
+  {
+    "title": "Croque Monsieur",
+    "cuisine": "French",
+    "ingredients": [
+      "8 slices bread",
+      "4 slices ham",
+      "1 cup Gruyère, grated",
+      "1 cup béchamel sauce",
+      "2 tablespoons butter"
+    ],
+    "method": [
+      "Spread béchamel on bread slices.",
+      "Add ham and cheese; top with another slice.",
+      "Butter outside and grill until golden."
+    ],
+    "prep_time": 10,
+    "cook_time": 10,
+    "total_time": 20,
+    "popularity": 6020,
+    "tags": ["lunch", "dinner"],
+    "location": { "lat": 48.8566, "lon": 2.3522 }
+  },
+  {
+    "title": "Soupe au Pistou",
+    "cuisine": "French",
+    "ingredients": [
+      "1 cup white beans",
+      "1 cup green beans, chopped",
+      "2 potatoes, diced",
+      "2 tomatoes, chopped",
+      "1/2 cup small pasta",
+      "1 cup basil leaves",
+      "3 cloves garlic",
+      "1/4 cup olive oil"
+    ],
+    "method": [
+      "Cook white beans until tender.",
+      "Add potatoes, tomatoes, and pasta; simmer until cooked.",
+      "Blend basil, garlic, and olive oil into pistou.",
+      "Stir pistou into soup before serving."
+    ],
+    "prep_time": 20,
+    "cook_time": 40,
+    "total_time": 60,
+    "popularity": 2550,
+    "tags": ["soup", "vegetarian"],
+    "location": { "lat": 43.5297, "lon": 5.4474 }
+  },
+  {
+    "title": "Gratin Dauphinois",
+    "cuisine": "French",
+    "ingredients": [
+      "2 pounds potatoes, thinly sliced",
+      "2 cups cream",
+      "2 cloves garlic, minced",
+      "2 tablespoons butter",
+      "Pinch of nutmeg",
+      "Salt and pepper"
+    ],
+    "method": [
+      "Preheat oven to 350°F (175°C).",
+      "Layer potatoes with cream, garlic, nutmeg, salt, and pepper.",
+      "Dot with butter and bake 60 minutes."
+    ],
+    "prep_time": 15,
+    "cook_time": 60,
+    "total_time": 75,
+    "popularity": 4880,
+    "tags": ["dinner", "vegetarian"],
+    "location": { "lat": 45.1885, "lon": 5.7245 }
+  },
+  {
+    "title": "Salade Niçoise",
+    "cuisine": "French",
+    "ingredients": [
+      "1 can tuna",
+      "2 potatoes, boiled and sliced",
+      "1 cup green beans, blanched",
+      "2 eggs, boiled and halved",
+      "1 tomato, sliced",
+      "1/4 cup olives",
+      "2 anchovies",
+      "3 tablespoons olive oil",
+      "1 tablespoon vinegar",
+      "1 teaspoon mustard"
+    ],
+    "method": [
+      "Arrange potatoes, beans, eggs, tomatoes, olives, and tuna on a plate.",
+      "Whisk oil, vinegar, and mustard.",
+      "Drizzle dressing over salad."
+    ],
+    "prep_time": 20,
+    "cook_time": 15,
+    "total_time": 35,
+    "popularity": 3120,
+    "tags": ["dinner", "lunch"],
+    "location": { "lat": 43.7102, "lon": 7.2620 }
+  },
+  {
+    "title": "Crème Brûlée",
+    "cuisine": "French",
+    "ingredients": [
+      "2 cups heavy cream",
+      "4 egg yolks",
+      "1/2 cup sugar",
+      "1 teaspoon vanilla",
+      "2 tablespoons sugar for topping"
+    ],
+    "method": [
+      "Preheat oven to 325°F (160°C).",
+      "Heat cream with vanilla until warm.",
+      "Whisk yolks and sugar; slowly add warm cream.",
+      "Pour into ramekins and bake in a water bath for 35–40 minutes.",
+      "Chill, then torch sugar on top to caramelize."
+    ],
+    "prep_time": 15,
+    "cook_time": 40,
+    "total_time": 55,
+    "popularity": 6900,
+    "tags": ["dessert"],
+    "location": { "lat": 48.8566, "lon": 2.3522 }
+  },
+  {
+    "title": "Gulyásleves (Goulash Soup)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "500g beef shin",
+      "2 onions",
+      "2 carrots",
+      "2 potatoes",
+      "1 parsnip",
+      "1 tbsp paprika",
+      "1 tomato",
+      "1 pepper",
+      "salt",
+      "pepper",
+      "caraway seeds"
+    ],
+    "method": [
+      "Sauté onions in fat until softened.",
+      "Add paprika and beef, and cook until browned.",
+      "Add vegetables, spices, and water.",
+      "Simmer until tender."
+    ],
+    "prep_time": 20,
+    "cook_time": 90,
+    "total_time": 110,
+    "tags": ["soup", "dinner"],
+    "location": { "lat": 47.4979, "lon": 19.0402 },
+    "popularity": 6120
+  },
+  {
+    "title": "Pörkölt (Hungarian Stew)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "600g pork or beef",
+      "2 onions",
+      "2 tbsp paprika",
+      "1 tomato",
+      "1 pepper",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Cook onions until soft.",
+      "Add paprika and meat.",
+      "Add vegetables and simmer until thick and tender."
+    ],
+    "prep_time": 15,
+    "cook_time": 60,
+    "total_time": 75,
+    "tags": ["dinner"],
+    "location": { "lat": 46.2530, "lon": 20.1414 },
+    "popularity": 5400
+  },
+  {
+    "title": "Lángos",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "500g flour",
+      "25g yeast",
+      "250ml milk",
+      "1 tsp salt",
+      "oil for frying",
+      "garlic",
+      "sour cream",
+      "cheese"
+    ],
+    "method": [
+      "Make dough with flour, yeast, milk, and salt.",
+      "Let the dough rise.",
+      "Shape into discs and deep fry.",
+      "Serve with garlic, sour cream, and cheese."
+    ],
+    "prep_time": 20,
+    "cook_time": 20,
+    "total_time": 40,
+    "tags": ["street food", "vegetarian"],
+    "location": { "lat": 47.1625, "lon": 19.5033 },
+    "popularity": 7200
+  },
+  {
+    "title": "Hortobágyi Palacsinta",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "8 crepes",
+      "300g minced meat",
+      "1 onion",
+      "1 tbsp paprika",
+      "200ml sour cream",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Cook meat with onions and paprika.",
+      "Fill the crepes with the meat mixture.",
+      "Roll the crepes.",
+      "Bake with sour cream sauce."
+    ],
+    "prep_time": 25,
+    "cook_time": 30,
+    "total_time": 55,
+    "tags": ["dinner"],
+    "location": { "lat": 47.5833, "lon": 21.1667 },
+    "popularity": 4880
+  },
+  {
+    "title": "Halászlé (Fisherman's Soup)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "1kg carp",
+      "2 onions",
+      "2 tbsp paprika",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Cook onions with paprika.",
+      "Add fish and water.",
+      "Simmer until rich and spicy."
+    ],
+    "prep_time": 20,
+    "cook_time": 60,
+    "total_time": 80,
+    "tags": ["soup", "dinner"],
+    "location": { "lat": 46.3500, "lon": 18.7000 },
+    "popularity": 5300
+  },
+  {
+    "title": "Töltött Káposzta (Stuffed Cabbage)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "1 cabbage",
+      "500g minced pork",
+      "100g rice",
+      "1 onion",
+      "1 tbsp paprika",
+      "sauerkraut",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Mix meat with rice and spices.",
+      "Wrap the filling in cabbage leaves.",
+      "Cook in sauerkraut broth until tender."
+    ],
+    "prep_time": 30,
+    "cook_time": 120,
+    "total_time": 150,
+    "tags": ["dinner"],
+    "location": { "lat": 48.1000, "lon": 20.7833 },
+    "popularity": 4500
+  },
+  {
+    "title": "Paprikás Csirke (Chicken Paprikash)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "1kg chicken",
+      "2 onions",
+      "2 tbsp paprika",
+      "200ml sour cream",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Cook onions until soft.",
+      "Add paprika and chicken.",
+      "Simmer until tender.",
+      "Finish with sour cream."
+    ],
+    "prep_time": 15,
+    "cook_time": 45,
+    "total_time": 60,
+    "tags": ["dinner"],
+    "location": { "lat": 47.5000, "lon": 19.0833 },
+    "popularity": 6100
+  },
+  {
+    "title": "Rakott Krumpli (Layered Potatoes)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "1kg potatoes",
+      "4 eggs",
+      "200g sausage",
+      "200ml sour cream",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Layer cooked potatoes, eggs, sausage, and sour cream in a baking dish.",
+      "Bake until golden."
+    ],
+    "prep_time": 25,
+    "cook_time": 45,
+    "total_time": 70,
+    "tags": ["dinner"],
+    "location": { "lat": 47.6833, "lon": 17.6500 },
+    "popularity": 4700
+  },
+  {
+    "title": "Dobos Torta",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "6 eggs",
+      "150g sugar",
+      "150g flour",
+      "200g butter",
+      "200g chocolate",
+      "caramel topping"
+    ],
+    "method": [
+      "Bake sponge cake layers.",
+      "Fill the layers with chocolate buttercream.",
+      "Top with caramel."
+    ],
+    "prep_time": 40,
+    "cook_time": 30,
+    "total_time": 70,
+    "tags": ["dessert"],
+    "location": { "lat": 47.4979, "lon": 19.0402 },
+    "popularity": 6900
+  },
+  {
+    "title": "Somlói Galuska",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "sponge cake",
+      "walnuts",
+      "rum syrup",
+      "chocolate sauce",
+      "whipped cream"
+    ],
+    "method": [
+      "Layer sponge cake with walnuts and rum syrup.",
+      "Top with chocolate sauce and whipped cream."
+    ],
+    "prep_time": 30,
+    "cook_time": 20,
+    "total_time": 50,
+    "tags": ["dessert"],
+    "location": { "lat": 47.9333, "lon": 18.8500 },
+    "popularity": 7200
+  },
+  {
+    "title": "Meggyes Pite (Sour Cherry Pie)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "500g sour cherries",
+      "300g flour",
+      "150g sugar",
+      "2 eggs",
+      "butter"
+    ],
+    "method": [
+      "Prepare the dough.",
+      "Fill with cherries.",
+      "Bake until golden."
+    ],
+    "prep_time": 20,
+    "cook_time": 40,
+    "total_time": 60,
+    "tags": ["dessert", "vegetarian"],
+    "location": { "lat": 47.9000, "lon": 20.3833 },
+    "popularity": 5800
+  },
+  {
+    "title": "Körözött (Paprika Cheese Spread)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "250g cottage cheese",
+      "50g butter",
+      "1 tbsp paprika",
+      "caraway seeds",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Mix all ingredients into a smooth spread."
+    ],
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "tags": ["breakfast", "vegetarian"],
+    "location": { "lat": 47.5000, "lon": 19.0833 },
+    "popularity": 4300
+  },
+  {
+    "title": "Lecsó (Hungarian Ratatouille)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "4 peppers",
+      "2 tomatoes",
+      "1 onion",
+      "1 tbsp paprika",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Cook onions until soft.",
+      "Add peppers and tomatoes.",
+      "Season with paprika.",
+      "Simmer until tender."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "tags": ["vegetarian", "vegan", "dinner"],
+    "location": { "lat": 46.9000, "lon": 19.7000 },
+    "popularity": 5100
+  },
+  {
+    "title": "Túrós Csusza",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "300g pasta",
+      "200g cottage cheese",
+      "100g bacon",
+      "100ml sour cream",
+      "salt"
+    ],
+    "method": [
+      "Cook the pasta.",
+      "Mix with cottage cheese and sour cream.",
+      "Top with crispy bacon."
+    ],
+    "prep_time": 10,
+    "cook_time": 20,
+    "total_time": 30,
+    "tags": ["dinner"],
+    "location": { "lat": 47.6000, "lon": 18.9833 },
+    "popularity": 5200
+  },
+  {
+    "title": "Palacsinta (Hungarian Crepes)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "2 eggs",
+      "200g flour",
+      "300ml milk",
+      "sugar",
+      "oil",
+      "jam or cocoa filling"
+    ],
+    "method": [
+      "Mix the batter.",
+      "Fry thin crepes.",
+      "Fill with jam or cocoa."
+    ],
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "tags": ["dessert", "breakfast", "vegetarian"],
+    "location": { "lat": 47.4979, "lon": 19.0402 },
+    "popularity": 6400
+  },
+  {
+    "title": "Moussaka",
+    "cuisine": "Greek",
+    "ingredients": [
+      "2 eggplants, sliced",
+      "1 pound ground lamb",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 cup crushed tomatoes",
+      "2 tablespoons tomato paste",
+      "1/2 cup red wine",
+      "1 teaspoon cinnamon",
+      "2 tablespoons olive oil",
+      "2 cups béchamel sauce",
+      "1/2 cup grated Kefalotyri cheese",
+      "Salt and pepper to taste"
+    ],
+    "method": [
+      "Salt eggplant slices and let them rest 20 minutes, then pat dry.",
+      "Brush with olive oil and roast until lightly browned.",
+      "In a pan, sauté onion and garlic in olive oil until soft.",
+      "Add ground lamb and cook until browned.",
+      "Stir in tomato paste, crushed tomatoes, wine, cinnamon, salt, and pepper; simmer 20 minutes.",
+      "Layer eggplant and meat sauce in a baking dish.",
+      "Pour béchamel over the top and sprinkle with cheese.",
+      "Bake at 375°F (190°C) for 40 minutes until golden."
+    ],
+    "prep_time": 40,
+    "cook_time": 60,
+    "total_time": 100,
+    "popularity": 9100,
+    "tags": ["dinner", "baked"],
+    "location": { "lat": 37.9838, "lon": 23.7275 }
+  },
+  {
+    "title": "Souvlaki",
+    "cuisine": "Greek",
+    "ingredients": [
+      "1 pound pork or chicken, cubed",
+      "2 tablespoons olive oil",
+      "1 lemon, juiced",
+      "2 cloves garlic, minced",
+      "1 teaspoon oregano",
+      "Salt and pepper",
+      "Wooden skewers"
+    ],
+    "method": [
+      "Mix olive oil, lemon juice, garlic, oregano, salt, and pepper.",
+      "Marinate meat cubes in the mixture for at least 1 hour.",
+      "Thread the meat onto skewers.",
+      "Grill over medium-high heat for 10–12 minutes, turning occasionally.",
+      "Serve hot with pita bread and tzatziki."
+    ],
+    "prep_time": 20,
+    "cook_time": 12,
+    "total_time": 32,
+    "popularity": 8900,
+    "tags": ["dinner", "grilled", "street food"],
+    "location": { "lat": 37.9838, "lon": 23.7275 }
+  },
+  {
+    "title": "Greek Salad (Horiatiki)",
+    "cuisine": "Greek",
+    "ingredients": [
+      "3 tomatoes, chopped",
+      "1 cucumber, sliced",
+      "1/2 red onion, thinly sliced",
+      "1/2 cup Kalamata olives",
+      "4 ounces feta cheese",
+      "3 tablespoons olive oil",
+      "1 teaspoon oregano",
+      "Salt to taste"
+    ],
+    "method": [
+      "Combine tomatoes, cucumber, onion, and olives in a bowl.",
+      "Place a block of feta on top.",
+      "Drizzle olive oil over the salad.",
+      "Sprinkle oregano and salt.",
+      "Toss lightly before serving."
+    ],
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "popularity": 8700,
+    "tags": ["salad", "vegetarian", "lunch"],
+    "location": { "lat": 36.3932, "lon": 25.4615 }
+  },
+  {
+    "title": "Spanakopita",
+    "cuisine": "Greek",
+    "ingredients": [
+      "1 pound spinach",
+      "1 onion, chopped",
+      "2 eggs",
+      "1 cup feta cheese",
+      "1/4 cup dill, chopped",
+      "8 sheets phyllo dough",
+      "4 tablespoons olive oil",
+      "Salt and pepper"
+    ],
+    "method": [
+      "Sauté onion until soft, then add spinach and cook until wilted.",
+      "Mix spinach mixture with eggs, feta, dill, salt, and pepper.",
+      "Layer phyllo sheets in an oiled baking dish.",
+      "Spread the spinach filling evenly.",
+      "Cover with remaining phyllo sheets, brushing with oil.",
+      "Bake at 375°F (190°C) for 35–40 minutes until golden."
+    ],
+    "prep_time": 30,
+    "cook_time": 40,
+    "total_time": 70,
+    "popularity": 8300,
+    "tags": ["baked", "vegetarian", "snack"],
+    "location": { "lat": 40.6401, "lon": 22.9444 }
+  },
+  {
+    "title": "Dolmades",
+    "cuisine": "Greek",
+    "ingredients": [
+      "30 grape leaves",
+      "1 cup rice",
+      "1 onion, finely chopped",
+      "2 tablespoons olive oil",
+      "2 tablespoons dill",
+      "1 lemon, juiced",
+      "Salt and pepper"
+    ],
+    "method": [
+      "Sauté onion in olive oil until soft.",
+      "Add rice, dill, salt, and pepper and cook briefly.",
+      "Place a spoonful of filling on each grape leaf and roll tightly.",
+      "Arrange rolls in a pot and cover with water and lemon juice.",
+      "Simmer for 35 minutes until rice is tender."
+    ],
+    "prep_time": 35,
+    "cook_time": 35,
+    "total_time": 70,
+    "popularity": 7200,
+    "tags": ["appetizer", "vegetarian"],
+    "location": { "lat": 38.2466, "lon": 21.7346 }
+  },
+  {
+    "title": "Tzatziki",
+    "cuisine": "Greek",
+    "ingredients": [
+      "1 cup Greek yogurt",
+      "1 cucumber, grated",
+      "2 cloves garlic, minced",
+      "1 tablespoon olive oil",
+      "1 tablespoon lemon juice",
+      "1 tablespoon dill",
+      "Salt"
+    ],
+    "method": [
+      "Drain grated cucumber to remove excess liquid.",
+      "Mix yogurt, cucumber, garlic, olive oil, lemon juice, dill, and salt.",
+      "Chill for at least 30 minutes before serving."
+    ],
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "popularity": 8600,
+    "tags": ["dip", "vegetarian"],
+    "location": { "lat": 37.9838, "lon": 23.7275 }
+  },
+  {
+    "title": "Pastitsio",
+    "cuisine": "Greek",
+    "ingredients": [
+      "14 ounces pasta",
+      "1 pound ground beef",
+      "1 onion, chopped",
+      "2 cups tomato sauce",
+      "1 teaspoon cinnamon",
+      "2 cups béchamel sauce",
+      "1/2 cup grated cheese",
+      "Salt and pepper"
+    ],
+    "method": [
+      "Cook pasta until al dente.",
+      "Brown ground beef with onion.",
+      "Add tomato sauce, cinnamon, salt, and pepper; simmer 15 minutes.",
+      "Layer pasta, meat sauce, and béchamel in a baking dish.",
+      "Top with grated cheese.",
+      "Bake at 375°F (190°C) for 40 minutes."
+    ],
+    "prep_time": 30,
+    "cook_time": 40,
+    "total_time": 70,
+    "popularity": 8000,
+    "tags": ["dinner", "pasta", "baked"],
+    "location": { "lat": 37.9838, "lon": 23.7275 }
+  },
+  {
+    "title": "Baklava",
+    "cuisine": "Greek",
+    "ingredients": [
+      "12 sheets phyllo dough",
+      "2 cups chopped walnuts",
+      "1/2 cup butter, melted",
+      "1 cup sugar",
+      "1/2 cup honey",
+      "1 cup water",
+      "1 teaspoon cinnamon"
+    ],
+    "method": [
+      "Layer buttered phyllo sheets in a baking dish.",
+      "Sprinkle walnuts and cinnamon between layers.",
+      "Top with remaining phyllo and butter.",
+      "Bake at 350°F (175°C) for 40 minutes.",
+      "Simmer sugar, honey, and water into syrup.",
+      "Pour syrup over hot baklava."
+    ],
+    "prep_time": 30,
+    "cook_time": 40,
+    "total_time": 70,
+    "popularity": 9400,
+    "tags": ["dessert", "pastry"],
+    "location": { "lat": 39.0742, "lon": 21.8243 }
+  },
+  {
+    "title": "Loukoumades",
+    "cuisine": "Greek",
+    "ingredients": [
+      "2 cups flour",
+      "1 teaspoon yeast",
+      "1 cup warm water",
+      "Oil for frying",
+      "1/2 cup honey",
+      "1 teaspoon cinnamon"
+    ],
+    "method": [
+      "Mix flour, yeast, and water into a smooth batter.",
+      "Let it rise until doubled.",
+      "Drop spoonfuls into hot oil and fry until golden.",
+      "Drizzle with honey and sprinkle with cinnamon."
+    ],
+    "prep_time": 20,
+    "cook_time": 20,
+    "total_time": 40,
+    "popularity": 7800,
+    "tags": ["dessert", "fried", "street food"],
+    "location": { "lat": 37.9838, "lon": 23.7275 }
+  },
+  {
+    "title": "Fasolada",
+    "cuisine": "Greek",
+    "ingredients": [
+      "2 cups white beans",
+      "1 onion, chopped",
+      "2 carrots, chopped",
+      "2 celery stalks, chopped",
+      "2 cups tomato sauce",
+      "4 tablespoons olive oil",
+      "Salt and pepper"
+    ],
+    "method": [
+      "Soak beans overnight and cook until tender.",
+      "Sauté onion, carrots, and celery in olive oil.",
+      "Add cooked beans and tomato sauce.",
+      "Simmer for 40 minutes until flavors meld.",
+      "Season and serve."
+    ],
+    "prep_time": 20,
+    "cook_time": 60,
+    "total_time": 80,
+    "popularity": 6200,
+    "tags": ["soup", "vegan"],
+    "location": { "lat": 38.2466, "lon": 21.7346 }
+  },
+  {
+    "title": "Gyros",
+    "cuisine": "Greek",
+    "ingredients": [
+      "1 pound pork or chicken slices",
+      "2 tablespoons olive oil",
+      "1 teaspoon oregano",
+      "1 teaspoon paprika",
+      "Salt and pepper",
+      "4 pita breads",
+      "1 tomato, sliced",
+      "1 onion, sliced",
+      "Tzatziki sauce"
+    ],
+    "method": [
+      "Season meat with olive oil, oregano, paprika, salt, and pepper.",
+      "Cook in a hot pan or grill until browned.",
+      "Warm pita bread.",
+      "Fill pita with meat, tomato, onion, and tzatziki.",
+      "Wrap and serve."
+    ],
+    "prep_time": 15,
+    "cook_time": 15,
+    "total_time": 30,
+    "popularity": 9100,
+    "tags": ["street food", "dinner"],
+    "location": { "lat": 37.9838, "lon": 23.7275 }
+  },
+  {
+    "title": "Kleftiko",
+    "cuisine": "Greek",
+    "ingredients": [
+      "2 pounds lamb",
+      "4 potatoes, chopped",
+      "1 lemon, sliced",
+      "4 cloves garlic",
+      "2 tablespoons olive oil",
+      "1 teaspoon oregano",
+      "Salt and pepper"
+    ],
+    "method": [
+      "Season lamb with olive oil, garlic, oregano, salt, and pepper.",
+      "Place lamb, potatoes, and lemon in a baking dish.",
+      "Cover tightly with foil.",
+      "Bake at 325°F (160°C) for 2 hours until tender."
+    ],
+    "prep_time": 20,
+    "cook_time": 120,
+    "total_time": 140,
+    "popularity": 7000,
+    "tags": ["dinner", "roasted"],
+    "location": { "lat": 35.3387, "lon": 25.1442 }
+  },
+  {
+    "title": "Saganaki",
+    "cuisine": "Greek",
+    "ingredients": [
+      "1 block kefalotyri or graviera cheese",
+      "1/2 cup flour",
+      "2 tablespoons olive oil",
+      "1 lemon wedge"
+    ],
+    "method": [
+      "Coat cheese lightly in flour.",
+      "Heat olive oil in a skillet.",
+      "Fry cheese until golden on both sides.",
+      "Serve immediately with lemon."
+    ],
+    "prep_time": 5,
+    "cook_time": 5,
+    "total_time": 10,
+    "popularity": 7600,
+    "tags": ["appetizer", "fried", "vegetarian"],
+    "location": { "lat": 40.6401, "lon": 22.9444 }
+  },
+  {
+    "title": "Avgolemono Soup",
+    "cuisine": "Greek",
+    "ingredients": [
+      "6 cups chicken broth",
+      "1/2 cup rice",
+      "2 eggs",
+      "1 lemon, juiced",
+      "Salt and pepper"
+    ],
+    "method": [
+      "Bring broth to a boil and cook rice until tender.",
+      "Whisk eggs and lemon juice together.",
+      "Slowly add hot broth to egg mixture while whisking.",
+      "Return mixture to soup and heat gently without boiling.",
+      "Season and serve."
+    ],
+    "prep_time": 10,
+    "cook_time": 25,
+    "total_time": 35,
+    "popularity": 6800,
+    "tags": ["soup"],
+    "location": { "lat": 37.9838, "lon": 23.7275 }
+  },
+  {
+    "title": "Galaktoboureko",
+    "cuisine": "Greek",
+    "ingredients": [
+      "10 sheets phyllo dough",
+      "4 cups milk",
+      "1/2 cup semolina",
+      "3/4 cup sugar",
+      "3 eggs",
+      "1 teaspoon vanilla",
+      "1 cup sugar for syrup",
+      "1 cup water",
+      "1 lemon peel"
+    ],
+    "method": [
+      "Heat milk with semolina and sugar to make a thick custard.",
+      "Stir in eggs and vanilla once slightly cooled.",
+      "Layer buttered phyllo in a baking dish and add custard.",
+      "Cover with remaining phyllo.",
+      "Bake at 350°F (175°C) for 40 minutes.",
+      "Simmer sugar, water, and lemon peel into syrup.",
+      "Pour syrup over hot pastry."
+    ],
+    "prep_time": 30,
+    "cook_time": 40,
+    "total_time": 70,
+    "popularity": 7900,
+    "tags": ["dessert", "pastry"],
+    "location": { "lat": 37.9838, "lon": 23.7275 }
+  },
+  {
+    "title": "Lasagna alla Bolognese",
+    "cuisine": "Italian",
+    "ingredients": ["1 pound ground beef","1/2 pound ground pork","1 onion, finely chopped","2 carrots, finely chopped","2 celery stalks, finely chopped","3 cloves garlic, minced","1 cup red wine","1 (28-ounce) can crushed tomatoes","1 cup whole milk","1 pound lasagna noodles","2 cups béchamel sauce","2 cups mozzarella, shredded","1 cup Parmesan, grated","3 tablespoons olive oil","Salt and pepper to taste"],
+    "method": ["Heat olive oil in a large pot and sauté onion, carrots, celery, and garlic until softened.","Add ground beef and pork; cook until browned.","Pour in red wine and simmer until reduced by half.","Add crushed tomatoes, milk, salt, and pepper. Simmer on low heat for 1.5–2 hours.","Cook lasagna noodles until al dente.","Layer noodles, meat sauce, béchamel, mozzarella, and Parmesan in a baking dish.","Bake at 375°F (190°C) for 40 minutes until bubbling and golden."],
+    "prep_time": 30,
+    "cook_time": 150,
+    "total_time": 180,
+    "popularity": 9120,
+    "tags": ["dinner"],
+    "location": { "lat": 44.4949, "lon": 11.3426 }
+  },
+  {
+    "title": "Spaghetti Carbonara",
+    "cuisine": "Italian",
+    "ingredients": ["12 ounces spaghetti","4 ounces guanciale, diced","2 eggs","2 egg yolks","1 cup Pecorino Romano, grated","Salt and black pepper to taste"],
+    "method": ["Cook spaghetti in salted water until al dente.","Sauté guanciale until crispy; remove from heat.","Whisk eggs, yolks, and Pecorino in a bowl.","Drain pasta and add to guanciale pan.","Remove from heat and stir in egg mixture quickly to create a creamy sauce.","Season generously with black pepper."],
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "popularity": 10450,
+    "tags": ["dinner"],
+    "location": { "lat": 41.9028, "lon": 12.4964 }
+  },
+  {
+    "title": "Margherita Pizza",
+    "cuisine": "Italian",
+    "ingredients": ["1 pizza dough","1/2 cup tomato sauce","8 ounces fresh mozzarella, sliced","Fresh basil leaves","2 tablespoons olive oil","Salt to taste"],
+    "method": ["Preheat oven to 500°F (260°C).","Stretch dough into a circle and spread tomato sauce.","Top with mozzarella slices and drizzle with olive oil.","Bake 10–12 minutes until crust is golden.","Top with fresh basil before serving."],
+    "prep_time": 15,
+    "cook_time": 12,
+    "total_time": 27,
+    "popularity": 9870,
+    "tags": ["dinner","vegetarian"],
+    "location": { "lat": 40.8518, "lon": 14.2681 }
+  },
+  {
+    "title": "Risotto alla Milanese",
+    "cuisine": "Italian",
+    "ingredients": ["1 1/2 cups Arborio rice","1 onion, finely chopped","4 tablespoons butter","1/2 cup white wine","4 cups chicken broth, warmed","1/2 teaspoon saffron threads","1/2 cup Parmesan cheese, grated","Salt to taste"],
+    "method": ["Sauté onion in butter until translucent.","Add rice and toast for 2 minutes.","Pour in wine and cook until absorbed.","Add broth one ladle at a time, stirring constantly.","Stir in saffron halfway through cooking.","Finish with Parmesan and remaining butter."],
+    "prep_time": 10,
+    "cook_time": 25,
+    "total_time": 35,
+    "popularity": 6540,
+    "tags": ["dinner","vegetarian"],
+    "location": { "lat": 45.4642, "lon": 9.1900 }
+  },
+  {
+    "title": "Osso Buco",
+    "cuisine": "Italian",
+    "ingredients": ["4 veal shanks","1 onion, chopped","2 carrots, chopped","2 celery stalks, chopped","3 cloves garlic, minced","1 cup white wine","1 (14-ounce) can diced tomatoes","2 cups beef broth","1 tablespoon flour","3 tablespoons olive oil","Salt and pepper","Gremolata (lemon zest, garlic, parsley)"],
+    "method": ["Season veal shanks with salt and pepper; dredge in flour.","Brown shanks in olive oil and set aside.","Sauté onion, carrots, celery, and garlic.","Add wine and reduce by half.","Add tomatoes and broth; return shanks to pot.","Simmer covered for 2 hours until tender.","Serve with gremolata sprinkled on top."],
+    "prep_time": 20,
+    "cook_time": 120,
+    "total_time": 140,
+    "popularity": 5210,
+    "tags": ["dinner"],
+    "location": { "lat": 45.4642, "lon": 9.1900 }
+  },
+  {
+    "title": "Pesto Genovese",
+    "cuisine": "Italian",
+    "ingredients": ["2 cups fresh basil leaves","1/2 cup Parmesan cheese","1/3 cup pine nuts","2 cloves garlic","1/2 cup olive oil","Salt to taste"],
+    "method": ["Blend basil, Parmesan, pine nuts, and garlic.","Slowly drizzle in olive oil until smooth.","Season with salt.","Serve with pasta or as a spread."],
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "popularity": 7430,
+    "tags": ["vegetarian","vegan","dinner"],
+    "location": { "lat": 44.4056, "lon": 8.9463 }
+  },
+  {
+    "title": "Tiramisu",
+    "cuisine": "Italian",
+    "ingredients": ["6 egg yolks","3/4 cup sugar","1 pound mascarpone","1 1/2 cups espresso, cooled","24 ladyfingers","1/4 cup cocoa powder","1/2 cup heavy cream"],
+    "method": ["Whisk yolks and sugar over a double boiler until thick.","Fold in mascarpone.","Whip cream and fold into mixture.","Dip ladyfingers in espresso and layer with cream mixture.","Dust with cocoa and chill 4 hours."],
+    "prep_time": 25,
+    "cook_time": 0,
+    "total_time": 25,
+    "popularity": 11020,
+    "tags": ["dessert"],
+    "location": { "lat": 45.6669, "lon": 12.2430 }
+  },
+  {
+    "title": "Minestrone Soup",
+    "cuisine": "Italian",
+    "ingredients": ["1 onion, chopped","2 carrots, chopped","2 celery stalks, chopped","2 potatoes, diced","1 zucchini, chopped","1 cup green beans","1 (14-ounce) can tomatoes","4 cups vegetable broth","1 cup small pasta","2 tablespoons olive oil","Salt and pepper"],
+    "method": ["Sauté onion, carrots, and celery in olive oil.","Add potatoes, zucchini, beans, tomatoes, and broth.","Simmer 20 minutes.","Add pasta and cook until tender.","Season and serve."],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "popularity": 4980,
+    "tags": ["soup","vegetarian"],
+    "location": { "lat": 41.8719, "lon": 12.5674 }
+  },
+  {
+    "title": "Focaccia",
+    "cuisine": "Italian",
+    "ingredients": ["3 cups flour","1 1/4 cups warm water","2 teaspoons yeast","1 teaspoon sugar","1 teaspoon salt","1/4 cup olive oil","Rosemary"],
+    "method": ["Mix water, yeast, and sugar; rest 10 minutes.","Add flour, salt, and olive oil; knead until smooth.","Rise 1 hour.","Spread dough on a baking sheet, dimple surface, add rosemary.","Bake at 425°F (220°C) for 20 minutes."],
+    "prep_time": 20,
+    "cook_time": 20,
+    "total_time": 40,
+    "popularity": 6200,
+    "tags": ["bread","vegetarian"],
+    "location": { "lat": 44.4056, "lon": 8.9463 }
+  },
+  {
+    "title": "Chicken Piccata",
+    "cuisine": "Italian",
+    "ingredients": ["4 chicken breasts, pounded thin","1/2 cup flour","3 tablespoons butter","3 tablespoons olive oil","1/2 cup white wine","1/4 cup lemon juice","1/4 cup capers","Salt and pepper"],
+    "method": ["Dredge chicken in flour and season.","Brown in butter and olive oil.","Add wine and reduce.","Add lemon juice and capers; simmer 5 minutes."],
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "popularity": 5400,
+    "tags": ["dinner"],
+    "location": { "lat": 41.9028, "lon": 12.4964 }
+  },
+  {
+    "title": "Gnocchi al Pomodoro",
+    "cuisine": "Italian",
+    "ingredients": ["1 pound potato gnocchi","2 cups tomato sauce","2 cloves garlic, minced","3 tablespoons olive oil","1/4 cup Parmesan","Fresh basil"],
+    "method": ["Sauté garlic in olive oil.","Add tomato sauce and simmer 10 minutes.","Cook gnocchi until they float.","Toss with sauce and top with Parmesan and basil."],
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "popularity": 5800,
+    "tags": ["dinner","vegetarian"],
+    "location": { "lat": 40.8518, "lon": 14.2681 }
+  },
+  {
+    "title": "Arancini",
+    "cuisine": "Italian",
+    "ingredients": ["3 cups cooked risotto","1 cup mozzarella cubes","1 cup flour","2 eggs, beaten","1 cup breadcrumbs","Oil for frying"],
+    "method": ["Form risotto into balls with mozzarella in the center.","Dredge in flour, dip in eggs, coat in breadcrumbs.","Fry until golden."],
+    "prep_time": 20,
+    "cook_time": 10,
+    "total_time": 30,
+    "popularity": 4900,
+    "tags": ["snack","dinner"],
+    "location": { "lat": 37.5079, "lon": 15.0830 }
+  },
+  {
+    "title": "Panna Cotta",
+    "cuisine": "Italian",
+    "ingredients": ["2 cups heavy cream","1/2 cup sugar","1 teaspoon vanilla","2 teaspoons gelatin","3 tablespoons cold water"],
+    "method": ["Bloom gelatin in cold water.","Heat cream, sugar, and vanilla until warm.","Stir in gelatin until dissolved.","Pour into molds and chill 4 hours."],
+    "prep_time": 10,
+    "cook_time": 5,
+    "total_time": 15,
+    "popularity": 7200,
+    "tags": ["dessert"],
+    "location": { "lat": 45.0703, "lon": 7.6869 }
+  },
+  {
+    "title": "Caprese Salad",
+    "cuisine": "Italian",
+    "ingredients": ["3 tomatoes, sliced","8 ounces fresh mozzarella, sliced","Fresh basil leaves","3 tablespoons olive oil","Salt and pepper"],
+    "method": ["Arrange tomatoes and mozzarella on a plate.","Top with basil.","Drizzle with olive oil and season."],
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "popularity": 6300,
+    "tags": ["vegetarian","lunch"],
+    "location": { "lat": 40.5507, "lon": 14.2429 }
+  },
+  {
+    "title": "Pasta e Fagioli",
+    "cuisine": "Italian",
+    "ingredients": ["1 onion, chopped","2 carrots, chopped","2 celery stalks, chopped","3 cloves garlic, minced","1 (14-ounce) can cannellini beans","1 (14-ounce) can tomatoes","4 cups broth","1 cup small pasta","2 tablespoons olive oil","Salt and pepper"],
+    "method": ["Sauté onion, carrots, celery, and garlic.","Add beans, tomatoes, and broth; simmer 20 minutes.","Add pasta and cook until tender.","Season and serve."],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "popularity": 5100,
+    "tags": ["soup","dinner"],
+    "location": { "lat": 41.8719, "lon": 12.5674 }
+  }
+]

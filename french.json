@@ -1,0 +1,404 @@
+[
+  {
+    "title": "Beef Bourguignon",
+    "cuisine": "French",
+    "ingredients": [
+      "3 cups Burgundy wine",
+      "2 onions, thinly sliced",
+      "2 carrots, chopped",
+      "2 tablespoons brandy",
+      "2 cloves garlic, crushed",
+      "10 whole black peppercorns",
+      "1 teaspoon salt",
+      "1 sprig fresh parsley",
+      "1 bay leaf",
+      "2 pounds beef chuck, cut into 2-inch cubes",
+      "4 tablespoons olive oil, divided",
+      "1/4 pound bacon, cubed",
+      "2 onions, chopped",
+      "3 tablespoons all-purpose flour",
+      "1 tablespoon tomato paste",
+      "1 (10.5 ounce) can beef broth",
+      "Salt and pepper to taste",
+      "4 tablespoons butter",
+      "1 pound mushrooms, sliced"
+    ],
+    "method": [
+      "Combine wine, sliced onions, carrots, brandy, garlic, peppercorns, salt, parsley, and bay leaf in a large bowl. Add beef, coat well, cover, and refrigerate for 24–48 hours.",
+      "Preheat oven to 300°F (150°C).",
+      "Strain beef and vegetables from marinade; reserve liquid. Pat beef dry.",
+      "Heat 2 tablespoons oil in a skillet and brown beef in batches. Transfer to a bowl.",
+      "Cook bacon in the same skillet until lightly browned; transfer to beef.",
+      "Deglaze skillet with 1 cup marinade, scraping browned bits; return liquid to reserved marinade.",
+      "Heat remaining oil and sauté chopped onions for 2–3 minutes. Add strained vegetables and cook briefly. Transfer to beef.",
+      "Stir flour into skillet drippings and cook 1–2 minutes. Add garlic and tomato paste.",
+      "Add broth, remaining marinade, salt, and pepper. Bring to a boil, whisking to remove lumps.",
+      "Pour liquid over beef and vegetables in a Dutch oven. Cover and bake for 3 hours, stirring occasionally.",
+      "Sauté mushrooms in butter until browned; stir into stew before serving."
+    ],
+    "prep_time": 30,
+    "cook_time": 180,
+    "total_time": 210,
+    "popularity": 7540,
+    "tags": ["dinner"],
+    "location": { "lat": 47.0526, "lon": 4.3830 }
+  },
+  {
+    "title": "Ratatouille",
+    "cuisine": "French",
+    "ingredients": [
+      "1 eggplant, diced",
+      "2 zucchinis, sliced",
+      "1 red bell pepper, chopped",
+      "1 yellow bell pepper, chopped",
+      "4 tomatoes, chopped",
+      "1 onion, sliced",
+      "3 cloves garlic, minced",
+      "4 tablespoons olive oil",
+      "1 teaspoon thyme",
+      "Salt and pepper to taste"
+    ],
+    "method": [
+      "Heat olive oil in a large pot and sauté onions and garlic until softened.",
+      "Add eggplant and cook for 5 minutes.",
+      "Add zucchini and bell peppers; cook until slightly tender.",
+      "Stir in tomatoes, thyme, salt, and pepper.",
+      "Reduce heat and simmer for 30–40 minutes until vegetables are soft and flavors meld."
+    ],
+    "prep_time": 20,
+    "cook_time": 40,
+    "total_time": 60,
+    "popularity": 4821,
+    "tags": ["vegetarian", "vegan", "dinner"],
+    "location": { "lat": 43.7034, "lon": 7.2663 }
+  },
+  {
+    "title": "French Onion Soup",
+    "cuisine": "French",
+    "ingredients": [
+      "4 large onions, thinly sliced",
+      "4 tablespoons butter",
+      "2 tablespoons olive oil",
+      "1 teaspoon sugar",
+      "1/2 cup white wine",
+      "6 cups beef broth",
+      "1 baguette, sliced",
+      "2 cups grated Gruyère",
+      "Salt and pepper to taste",
+      "1 teaspoon thyme"
+    ],
+    "method": [
+      "Melt butter with olive oil in a pot. Add onions and sugar; cook on low heat for 30–40 minutes until caramelized.",
+      "Add wine and reduce by half.",
+      "Add broth, thyme, salt, and pepper. Simmer for 20 minutes.",
+      "Toast baguette slices and top with Gruyère.",
+      "Ladle soup into bowls, top with cheese toasts, and broil until melted."
+    ],
+    "prep_time": 15,
+    "cook_time": 60,
+    "total_time": 75,
+    "popularity": 7012,
+    "tags": ["soup", "dinner"],
+    "location": { "lat": 48.8566, "lon": 2.3522 }
+  },
+  {
+    "title": "Quiche Lorraine",
+    "cuisine": "French",
+    "ingredients": [
+      "1 pie crust",
+      "6 slices bacon, chopped",
+      "1 cup Gruyère cheese, grated",
+      "3 eggs",
+      "1 cup heavy cream",
+      "1/4 teaspoon nutmeg",
+      "Salt and pepper to taste"
+    ],
+    "method": [
+      "Preheat oven to 375°F (190°C).",
+      "Blind-bake pie crust for 10 minutes.",
+      "Cook bacon until crisp; drain.",
+      "Whisk eggs, cream, nutmeg, salt, and pepper.",
+      "Spread bacon and cheese in crust; pour custard over.",
+      "Bake 30–35 minutes until set."
+    ],
+    "prep_time": 20,
+    "cook_time": 35,
+    "total_time": 55,
+    "popularity": 5340,
+    "tags": ["breakfast", "dinner"],
+    "location": { "lat": 48.6921, "lon": 6.1844 }
+  },
+  {
+    "title": "Bouillabaisse",
+    "cuisine": "French",
+    "ingredients": [
+      "1 pound white fish fillets",
+      "1/2 pound mussels",
+      "1/2 pound shrimp",
+      "2 tomatoes, chopped",
+      "1 fennel bulb, sliced",
+      "1 onion, chopped",
+      "3 cloves garlic, minced",
+      "1 teaspoon saffron",
+      "4 cups fish stock",
+      "3 tablespoons olive oil",
+      "Salt and pepper to taste"
+    ],
+    "method": [
+      "Heat olive oil and sauté onion, fennel, and garlic until softened.",
+      "Add tomatoes and saffron; cook 5 minutes.",
+      "Pour in fish stock and simmer 15 minutes.",
+      "Add fish, mussels, and shrimp; cook until seafood is done.",
+      "Season and serve with crusty bread."
+    ],
+    "prep_time": 25,
+    "cook_time": 45,
+    "total_time": 70,
+    "popularity": 3980,
+    "tags": ["dinner", "soup"],
+    "location": { "lat": 43.2965, "lon": 5.3698 }
+  },
+  {
+    "title": "Crêpes",
+    "cuisine": "French",
+    "ingredients": [
+      "1 cup flour",
+      "2 eggs",
+      "1 1/4 cups milk",
+      "2 tablespoons melted butter",
+      "1 tablespoon sugar",
+      "Pinch of salt"
+    ],
+    "method": [
+      "Whisk flour, sugar, and salt. Add eggs and milk gradually.",
+      "Whisk until smooth; rest batter 30 minutes.",
+      "Heat a lightly oiled pan and cook thin crêpes 1 minute per side."
+    ],
+    "prep_time": 10,
+    "cook_time": 20,
+    "total_time": 30,
+    "popularity": 8421,
+    "tags": ["breakfast", "dessert"],
+    "location": { "lat": 48.1173, "lon": -1.6778 }
+  },
+  {
+    "title": "Cassoulet",
+    "cuisine": "French",
+    "ingredients": [
+      "2 cups dried white beans",
+      "2 duck confit legs",
+      "1/2 pound sausage, sliced",
+      "1/2 pound pork belly, cubed",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "3 cloves garlic, minced",
+      "1 teaspoon thyme"
+    ],
+    "method": [
+      "Soak beans overnight and cook until tender.",
+      "Brown sausage and pork belly.",
+      "Combine beans, meats, tomatoes, garlic, and thyme in a casserole.",
+      "Bake at 300°F (150°C) for 2–3 hours until thick."
+    ],
+    "prep_time": 30,
+    "cook_time": 150,
+    "total_time": 180,
+    "popularity": 2890,
+    "tags": ["dinner"],
+    "location": { "lat": 43.6047, "lon": 1.4442 }
+  },
+  {
+    "title": "Tartiflette",
+    "cuisine": "French",
+    "ingredients": [
+      "2 pounds potatoes, sliced",
+      "1 reblochon cheese wheel",
+      "6 ounces bacon, chopped",
+      "1 onion, sliced",
+      "1/2 cup cream",
+      "Salt and pepper"
+    ],
+    "method": [
+      "Boil potatoes until tender.",
+      "Cook bacon and onions until soft.",
+      "Layer potatoes, bacon mixture, and cheese in a baking dish.",
+      "Bake at 375°F (190°C) for 30–40 minutes."
+    ],
+    "prep_time": 20,
+    "cook_time": 40,
+    "total_time": 60,
+    "popularity": 4100,
+    "tags": ["dinner"],
+    "location": { "lat": 45.8992, "lon": 6.1294 }
+  },
+  {
+    "title": "Madeleines",
+    "cuisine": "French",
+    "ingredients": [
+      "1 cup flour",
+      "2 eggs",
+      "1/2 cup sugar",
+      "1/2 cup melted butter",
+      "1 teaspoon lemon zest",
+      "1 teaspoon baking powder"
+    ],
+    "method": [
+      "Whisk eggs and sugar until pale.",
+      "Fold in flour, baking powder, zest, and butter.",
+      "Chill batter 1 hour.",
+      "Bake in madeleine molds at 375°F (190°C) for 10–12 minutes."
+    ],
+    "prep_time": 15,
+    "cook_time": 12,
+    "total_time": 27,
+    "popularity": 5210,
+    "tags": ["dessert"],
+    "location": { "lat": 49.1193, "lon": 6.1757 }
+  },
+  {
+    "title": "Clafoutis",
+    "cuisine": "French",
+    "ingredients": [
+      "2 cups cherries",
+      "3 eggs",
+      "1 cup milk",
+      "1/2 cup sugar",
+      "1/2 cup flour",
+      "1 teaspoon vanilla"
+    ],
+    "method": [
+      "Preheat oven to 350°F (175°C).",
+      "Arrange cherries in a buttered dish.",
+      "Whisk eggs, milk, sugar, flour, and vanilla.",
+      "Pour over cherries and bake 35 minutes."
+    ],
+    "prep_time": 15,
+    "cook_time": 35,
+    "total_time": 50,
+    "popularity": 3670,
+    "tags": ["dessert"],
+    "location": { "lat": 45.8336, "lon": 1.2611 }
+  },
+  {
+    "title": "Croque Monsieur",
+    "cuisine": "French",
+    "ingredients": [
+      "8 slices bread",
+      "4 slices ham",
+      "1 cup Gruyère, grated",
+      "1 cup béchamel sauce",
+      "2 tablespoons butter"
+    ],
+    "method": [
+      "Spread béchamel on bread slices.",
+      "Add ham and cheese; top with another slice.",
+      "Butter outside and grill until golden."
+    ],
+    "prep_time": 10,
+    "cook_time": 10,
+    "total_time": 20,
+    "popularity": 6020,
+    "tags": ["lunch", "dinner"],
+    "location": { "lat": 48.8566, "lon": 2.3522 }
+  },
+  {
+    "title": "Soupe au Pistou",
+    "cuisine": "French",
+    "ingredients": [
+      "1 cup white beans",
+      "1 cup green beans, chopped",
+      "2 potatoes, diced",
+      "2 tomatoes, chopped",
+      "1/2 cup small pasta",
+      "1 cup basil leaves",
+      "3 cloves garlic",
+      "1/4 cup olive oil"
+    ],
+    "method": [
+      "Cook white beans until tender.",
+      "Add potatoes, tomatoes, and pasta; simmer until cooked.",
+      "Blend basil, garlic, and olive oil into pistou.",
+      "Stir pistou into soup before serving."
+    ],
+    "prep_time": 20,
+    "cook_time": 40,
+    "total_time": 60,
+    "popularity": 2550,
+    "tags": ["soup", "vegetarian"],
+    "location": { "lat": 43.5297, "lon": 5.4474 }
+  },
+  {
+    "title": "Gratin Dauphinois",
+    "cuisine": "French",
+    "ingredients": [
+      "2 pounds potatoes, thinly sliced",
+      "2 cups cream",
+      "2 cloves garlic, minced",
+      "2 tablespoons butter",
+      "Pinch of nutmeg",
+      "Salt and pepper"
+    ],
+    "method": [
+      "Preheat oven to 350°F (175°C).",
+      "Layer potatoes with cream, garlic, nutmeg, salt, and pepper.",
+      "Dot with butter and bake 60 minutes."
+    ],
+    "prep_time": 15,
+    "cook_time": 60,
+    "total_time": 75,
+    "popularity": 4880,
+    "tags": ["dinner", "vegetarian"],
+    "location": { "lat": 45.1885, "lon": 5.7245 }
+  },
+  {
+    "title": "Salade Niçoise",
+    "cuisine": "French",
+    "ingredients": [
+      "1 can tuna",
+      "2 potatoes, boiled and sliced",
+      "1 cup green beans, blanched",
+      "2 eggs, boiled and halved",
+      "1 tomato, sliced",
+      "1/4 cup olives",
+      "2 anchovies",
+      "3 tablespoons olive oil",
+      "1 tablespoon vinegar",
+      "1 teaspoon mustard"
+    ],
+    "method": [
+      "Arrange potatoes, beans, eggs, tomatoes, olives, and tuna on a plate.",
+      "Whisk oil, vinegar, and mustard.",
+      "Drizzle dressing over salad."
+    ],
+    "prep_time": 20,
+    "cook_time": 15,
+    "total_time": 35,
+    "popularity": 3120,
+    "tags": ["dinner", "lunch"],
+    "location": { "lat": 43.7102, "lon": 7.2620 }
+  },
+  {
+    "title": "Crème Brûlée",
+    "cuisine": "French",
+    "ingredients": [
+      "2 cups heavy cream",
+      "4 egg yolks",
+      "1/2 cup sugar",
+      "1 teaspoon vanilla",
+      "2 tablespoons sugar for topping"
+    ],
+    "method": [
+      "Preheat oven to 325°F (160°C).",
+      "Heat cream with vanilla until warm.",
+      "Whisk yolks and sugar; slowly add warm cream.",
+      "Pour into ramekins and bake in a water bath for 35–40 minutes.",
+      "Chill, then torch sugar on top to caramelize."
+    ],
+    "prep_time": 15,
+    "cook_time": 40,
+    "total_time": 55,
+    "popularity": 6900,
+    "tags": ["dessert"],
+    "location": { "lat": 48.8566, "lon": 2.3522 }
+  }
+]

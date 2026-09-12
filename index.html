@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Recipe Explorer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header>Recipe Explorer</header>
+  <h2 style="margin-left:12px;">Cuisines</h2>
+  <nav id="cuisineMenu" style="padding:10px;">
+  </nav>
+
+  <div class="main-container">
+    <aside class="sidebar">
+      <input id="searchBox" type="text" placeholder="Search recipes...">
+      <p>Click a recipe title to view details.</p>
+      <div id="results"></div>
+    </aside>
+    
+
+    <main>
+      <h2>Popularity vs Cooking Time</h2>
+      <div class="recipe_next_to_scatterplot">
+        <div id="scatterplot"></div>
+        <div id="content"></div> <!--recipe details-->
+      </div>
+      <div class="slidecontainer">
+          <label id="time_label" for="time_range">Select Cooking Time: 200 minutes</label>
+          <input type="range" min="0" max="200" value="200" step="10" class="slider" id="time_range">
+          
+          <label id="popularity_label" for="pop_range">Select Popularity Score: 10000</label>
+          <input type="range" min="0" max="10000" value="10000" step="250" class="slider" id="pop_range">
+        </div>
+      <h2>The Most Common Ingredients in Selected Cuisine</h2>
+      <div id="wordcloud"></div> 
+      
+      
+      
+    </main>
+  </div>
+  
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <!--<script src="../js/cloud.js"></script>-->
+  <!--<script src="https://unpkg.com/d3-cloud/build/d3.layout.cloud.js"></script>-->
+  <script src="d3.layout.cloud.js"></script>
+  <!-- <script src="script_2.js"></script> -->
+  <script src="script_3.js"></script>
+
+  
+  
+</body>
+</html>

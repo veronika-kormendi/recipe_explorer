@@ -1,0 +1,355 @@
+[
+  {
+    "title": "Gulyásleves (Goulash Soup)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "500g beef shin",
+      "2 onions",
+      "2 carrots",
+      "2 potatoes",
+      "1 parsnip",
+      "1 tbsp paprika",
+      "1 tomato",
+      "1 pepper",
+      "salt",
+      "pepper",
+      "caraway seeds"
+    ],
+    "method": [
+      "Sauté onions in fat until softened.",
+      "Add paprika and beef, and cook until browned.",
+      "Add vegetables, spices, and water.",
+      "Simmer until tender."
+    ],
+    "prep_time": 20,
+    "cook_time": 90,
+    "total_time": 110,
+    "tags": ["soup", "dinner"],
+    "location": { "lat": 47.4979, "lon": 19.0402 },
+    "popularity": 6120
+  },
+  {
+    "title": "Pörkölt (Hungarian Stew)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "600g pork or beef",
+      "2 onions",
+      "2 tbsp paprika",
+      "1 tomato",
+      "1 pepper",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Cook onions until soft.",
+      "Add paprika and meat.",
+      "Add vegetables and simmer until thick and tender."
+    ],
+    "prep_time": 15,
+    "cook_time": 60,
+    "total_time": 75,
+    "tags": ["dinner"],
+    "location": { "lat": 46.2530, "lon": 20.1414 },
+    "popularity": 5400
+  },
+  {
+    "title": "Lángos",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "500g flour",
+      "25g yeast",
+      "250ml milk",
+      "1 tsp salt",
+      "oil for frying",
+      "garlic",
+      "sour cream",
+      "cheese"
+    ],
+    "method": [
+      "Make dough with flour, yeast, milk, and salt.",
+      "Let the dough rise.",
+      "Shape into discs and deep fry.",
+      "Serve with garlic, sour cream, and cheese."
+    ],
+    "prep_time": 20,
+    "cook_time": 20,
+    "total_time": 40,
+    "tags": ["street food", "vegetarian"],
+    "location": { "lat": 47.1625, "lon": 19.5033 },
+    "popularity": 7200
+  },
+  {
+    "title": "Hortobágyi Palacsinta",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "8 crepes",
+      "300g minced meat",
+      "1 onion",
+      "1 tbsp paprika",
+      "200ml sour cream",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Cook meat with onions and paprika.",
+      "Fill the crepes with the meat mixture.",
+      "Roll the crepes.",
+      "Bake with sour cream sauce."
+    ],
+    "prep_time": 25,
+    "cook_time": 30,
+    "total_time": 55,
+    "tags": ["dinner"],
+    "location": { "lat": 47.5833, "lon": 21.1667 },
+    "popularity": 4880
+  },
+  {
+    "title": "Halászlé (Fisherman's Soup)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "1kg carp",
+      "2 onions",
+      "2 tbsp paprika",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Cook onions with paprika.",
+      "Add fish and water.",
+      "Simmer until rich and spicy."
+    ],
+    "prep_time": 20,
+    "cook_time": 60,
+    "total_time": 80,
+    "tags": ["soup", "dinner"],
+    "location": { "lat": 46.3500, "lon": 18.7000 },
+    "popularity": 5300
+  },
+  {
+    "title": "Töltött Káposzta (Stuffed Cabbage)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "1 cabbage",
+      "500g minced pork",
+      "100g rice",
+      "1 onion",
+      "1 tbsp paprika",
+      "sauerkraut",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Mix meat with rice and spices.",
+      "Wrap the filling in cabbage leaves.",
+      "Cook in sauerkraut broth until tender."
+    ],
+    "prep_time": 30,
+    "cook_time": 120,
+    "total_time": 150,
+    "tags": ["dinner"],
+    "location": { "lat": 48.1000, "lon": 20.7833 },
+    "popularity": 4500
+  },
+  {
+    "title": "Paprikás Csirke (Chicken Paprikash)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "1kg chicken",
+      "2 onions",
+      "2 tbsp paprika",
+      "200ml sour cream",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Cook onions until soft.",
+      "Add paprika and chicken.",
+      "Simmer until tender.",
+      "Finish with sour cream."
+    ],
+    "prep_time": 15,
+    "cook_time": 45,
+    "total_time": 60,
+    "tags": ["dinner"],
+    "location": { "lat": 47.5000, "lon": 19.0833 },
+    "popularity": 6100
+  },
+  {
+    "title": "Rakott Krumpli (Layered Potatoes)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "1kg potatoes",
+      "4 eggs",
+      "200g sausage",
+      "200ml sour cream",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Layer cooked potatoes, eggs, sausage, and sour cream in a baking dish.",
+      "Bake until golden."
+    ],
+    "prep_time": 25,
+    "cook_time": 45,
+    "total_time": 70,
+    "tags": ["dinner"],
+    "location": { "lat": 47.6833, "lon": 17.6500 },
+    "popularity": 4700
+  },
+  {
+    "title": "Dobos Torta",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "6 eggs",
+      "150g sugar",
+      "150g flour",
+      "200g butter",
+      "200g chocolate",
+      "caramel topping"
+    ],
+    "method": [
+      "Bake sponge cake layers.",
+      "Fill the layers with chocolate buttercream.",
+      "Top with caramel."
+    ],
+    "prep_time": 40,
+    "cook_time": 30,
+    "total_time": 70,
+    "tags": ["dessert"],
+    "location": { "lat": 47.4979, "lon": 19.0402 },
+    "popularity": 6900
+  },
+  {
+    "title": "Somlói Galuska",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "sponge cake",
+      "walnuts",
+      "rum syrup",
+      "chocolate sauce",
+      "whipped cream"
+    ],
+    "method": [
+      "Layer sponge cake with walnuts and rum syrup.",
+      "Top with chocolate sauce and whipped cream."
+    ],
+    "prep_time": 30,
+    "cook_time": 20,
+    "total_time": 50,
+    "tags": ["dessert"],
+    "location": { "lat": 47.9333, "lon": 18.8500 },
+    "popularity": 7200
+  },
+  {
+    "title": "Meggyes Pite (Sour Cherry Pie)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "500g sour cherries",
+      "300g flour",
+      "150g sugar",
+      "2 eggs",
+      "butter"
+    ],
+    "method": [
+      "Prepare the dough.",
+      "Fill with cherries.",
+      "Bake until golden."
+    ],
+    "prep_time": 20,
+    "cook_time": 40,
+    "total_time": 60,
+    "tags": ["dessert", "vegetarian"],
+    "location": { "lat": 47.9000, "lon": 20.3833 },
+    "popularity": 5800
+  },
+  {
+    "title": "Körözött (Paprika Cheese Spread)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "250g cottage cheese",
+      "50g butter",
+      "1 tbsp paprika",
+      "caraway seeds",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Mix all ingredients into a smooth spread."
+    ],
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "tags": ["breakfast", "vegetarian"],
+    "location": { "lat": 47.5000, "lon": 19.0833 },
+    "popularity": 4300
+  },
+  {
+    "title": "Lecsó (Hungarian Ratatouille)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "4 peppers",
+      "2 tomatoes",
+      "1 onion",
+      "1 tbsp paprika",
+      "salt",
+      "pepper"
+    ],
+    "method": [
+      "Cook onions until soft.",
+      "Add peppers and tomatoes.",
+      "Season with paprika.",
+      "Simmer until tender."
+    ],
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "tags": ["vegetarian", "vegan", "dinner"],
+    "location": { "lat": 46.9000, "lon": 19.7000 },
+    "popularity": 5100
+  },
+  {
+    "title": "Túrós Csusza",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "300g pasta",
+      "200g cottage cheese",
+      "100g bacon",
+      "100ml sour cream",
+      "salt"
+    ],
+    "method": [
+      "Cook the pasta.",
+      "Mix with cottage cheese and sour cream.",
+      "Top with crispy bacon."
+    ],
+    "prep_time": 10,
+    "cook_time": 20,
+    "total_time": 30,
+    "tags": ["dinner"],
+    "location": { "lat": 47.6000, "lon": 18.9833 },
+    "popularity": 5200
+  },
+  {
+    "title": "Palacsinta (Hungarian Crepes)",
+    "cuisine": "Hungarian",
+    "ingredients": [
+      "2 eggs",
+      "200g flour",
+      "300ml milk",
+      "sugar",
+      "oil",
+      "jam or cocoa filling"
+    ],
+    "method": [
+      "Mix the batter.",
+      "Fry thin crepes.",
+      "Fill with jam or cocoa."
+    ],
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "tags": ["dessert", "breakfast", "vegetarian"],
+    "location": { "lat": 47.4979, "lon": 19.0402 },
+    "popularity": 6400
+  }
+]
