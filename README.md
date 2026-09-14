@@ -163,11 +163,10 @@ recipe-explorer/
 
 The browser application loads the combined `recipes.json` dataset, while the cuisine-specific JSON files are also retained as source datasets.
 
-## Running the Project Locally
+## Running the Project
 
-Because the application loads JSON and CSV files using `fetch()` and `d3.csv()`, it should be served through a local HTTP server rather than opened directly using a `file://` URL.
+[Can be viewed from GitHub Pages:] (https://veronika-kormendi.github.io/recipe_explorer/) or run it locally:
 
-There are two simple options.
 
 ### Option 1 — Python HTTP Server
 
