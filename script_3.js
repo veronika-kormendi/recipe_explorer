@@ -1,14 +1,17 @@
 let recipes = []; // create recipes array to store recipes
+let selected_cuisine = "AllCuisines";
+let selected_cuisine_recipes = [];
+let word_cloud_render_id = 0;
 
 //load JSON - recipes data
 fetch("recipes.json") 
   .then(r => r.json()) 
   .then(data => {
     recipes = data.sort((a, b) => a.title.localeCompare(b.title)); //sorting recipes array in alphabetical order based on title
+    selected_cuisine_recipes = recipes;
     //cuisine menu
     const cuisines = [...new Set(recipes.map(r=>r.cuisine))]
     renderCuisineMenu(cuisines);
-    const default_recipes = recipes.filter(r => r.cuisine === "French");
     updateScatterPlot(recipes); //scatterplot shows all recipes
     updateWordCloud("AllCuisines"); // wordcloud based on all cuisines
     renderList(recipes);
@@ -137,6 +140,7 @@ function updateScatterPlot(data) {
 // d3.csv("ingredient_freq.csv").then(create_word_cloud);
 // d3.csv("hun_ingredients.csv").then(create_word_cloud);
 function updateWordCloud(cuisine) {
+  const render_id = ++word_cloud_render_id;
   d3.select("#wordcloud").selectAll("*").remove(); //delete old word cloud
   const csvFiles = { //csv object with the cuisine csvs
     French: "french_ingredients.csv",
@@ -149,13 +153,45 @@ function updateWordCloud(cuisine) {
 //load csv data
   // d3.csv(csvFile).then(data => {
   d3.csv(csvFile + "?v=" + Date.now()).then(data => {
+    if (render_id !== word_cloud_render_id) return;
     data.forEach(d => {
       d.frequency = Number(d.frequency);
-    });    create_word_cloud(data);
+    });
+    create_word_cloud(data, render_id);
   });
 }
 
-function create_word_cloud(data) {
+function update_word_cloud_for_recipes(recipe_list) {
+  const render_id = ++word_cloud_render_id;
+  const csvFiles = {
+    French: "french_ingredients.csv",
+    Greek: "greek_ingredients.csv",
+    Hungarian: "hun_ingredients.csv",
+    Italian: "italian_ingredients.csv",
+    AllCuisines: "ingredient_freq.csv"
+  };
+  const csvFile = csvFiles[selected_cuisine];
+
+  d3.select("#wordcloud").selectAll("*").remove();
+  d3.csv(csvFile + "?v=" + Date.now()).then(data => {
+    if (render_id !== word_cloud_render_id) return;
+    const filtered_data = data.map(d => {
+      const ingredient = d.ingredient.toLowerCase();
+      const frequency = recipe_list.filter(recipe =>
+        recipe.ingredients.some(item =>
+          item.toLowerCase().includes(ingredient)
+        )
+      ).length;
+
+      return { ingredient: d.ingredient, frequency };
+    }).filter(d => d.frequency > 0);
+
+    create_word_cloud(filtered_data, render_id);
+  });
+}
+
+function create_word_cloud(data, render_id) {
+  if (render_id !== word_cloud_render_id) return;
   const min_frequency = 5;
   data.forEach(d => {
     d.frequency = Number(d.frequency);
@@ -190,6 +226,7 @@ function create_word_cloud(data) {
     .start();
 
   function draw(words) {
+    if (render_id !== word_cloud_render_id) return;
     const wordG = svg.append("g")
       .attr("transform", "translate(375,375)");
 
@@ -232,9 +269,10 @@ function renderCuisineMenu(cuisines) {
     btn.style.padding = "2px";
     btn.style.marginRight = "3px";
     btn.addEventListener("click", () => { //filter cuisine 
-      const filtered = recipes.filter(r => r.cuisine === cuisine);
-      updateScatterPlot(filtered);
-      renderList(filtered); //to filter the sidebar as well
+      selected_cuisine = cuisine;
+      selected_cuisine_recipes = recipes.filter(r => r.cuisine === cuisine);
+      updateScatterPlot(selected_cuisine_recipes);
+      renderList(selected_cuisine_recipes); //to filter the sidebar as well
       updateWordCloud(cuisine);
     });
     menu.appendChild(btn);
@@ -249,7 +287,8 @@ function renderCuisineMenu(cuisines) {
 
 const cooking_time_slider = document.getElementById('time_range'); //slider for selcting cooking time
 const cooking_time_label = document.getElementById('time_label'); //cooking time label
-const popularity_slider = document.getElementById('pop_range'); // popularity slider
+const popularity_min_slider = document.getElementById('pop_min_range'); // popularity slider for minimum value
+const popularity_max_slider = document.getElementById('pop_max_range'); // popularity slider for maximum value
 const popularity_label = document.getElementById('popularity_label'); //popularity slider label
 
 //the two filtering functions work independently, so I need to merge them tgheter
@@ -283,24 +322,50 @@ const popularity_label = document.getElementById('popularity_label'); //populari
 
 function filter_scatterplot(){
   const max_time = Number(cooking_time_slider.value);
-  const max_pop_score = Number(popularity_slider.value);
-  const filtered_cooking_time_and_pop = recipes.filter(d=>
+  const min_pop_score = Number(popularity_min_slider.value);
+  const max_pop_score = Number(popularity_max_slider.value);
+  const filtered_cooking_time_and_pop = selected_cuisine_recipes.filter(d=>
     d.total_time<=max_time &&
-    d.popularity>=max_pop_score);
+    d.popularity>=min_pop_score &&
+    d.popularity<=max_pop_score);
     updateScatterPlot(filtered_cooking_time_and_pop);
     renderList(filtered_cooking_time_and_pop);
-    // updateWordCloud(filtered_cooking_time_and_pop);
-    // updateWordCloud();
-    updateWordCloud(cuisine);
+    update_word_cloud_for_recipes(filtered_cooking_time_and_pop);
 }
-//update lables
+
+function update_popularity_label() {
+  if (popularity_label) {
+    popularity_label.textContent =
+      `Select Popularity Score: ${popularity_min_slider.value} - ${popularity_max_slider.value}`;
+  }
+}
+
+// Update labels and apply all active slider filters.
 cooking_time_label.textContent = `Select cooking time: ${cooking_time_slider.value} minutes`;
 cooking_time_slider.addEventListener('input', () => {
   cooking_time_label.textContent = `Select cooking time: ${cooking_time_slider.value} minutes`;
   filter_scatterplot();
 });
-popularity_label.textContent = `Select Popularity Score: ${popularity_slider.value}`;
-popularity_slider.addEventListener('input', () => {
-  popularity_label.textContent = `Select Popularity Score: ${popularity_slider.value}`;
+update_popularity_label();
+popularity_min_slider.addEventListener('input', () => {
+  //popularity_label.textContent = `Select Popularity Score: ${popularity_slider.value}`;
+  if (Number(popularity_min_slider.value) >
+      Number(popularity_max_slider.value)) {
+
+    popularity_min_slider.value =
+      popularity_max_slider.value;
+      }
+  update_popularity_label();
+  filter_scatterplot();
+});
+popularity_max_slider.addEventListener('input', () => {
+
+  if (Number(popularity_max_slider.value) <
+      Number(popularity_min_slider.value)) {
+
+    popularity_max_slider.value =
+      popularity_min_slider.value;
+  }
+  update_popularity_label();
   filter_scatterplot();
 });
