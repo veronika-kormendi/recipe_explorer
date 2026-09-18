@@ -1,6 +1,6 @@
 # Recipe Explorer — Interactive Data Visualization with D3.js
 
-(https://veronika-kormendi.github.io/recipe_explorer/)
+[Live Demo](https://veronika-kormendi.github.io/recipe_explorer/)
 Recipe Explorer is an interactive data visualization project created for a college **Interactive Data Visualization** module. The project explores how recipe data can be presented in a more interactive and analytical way using **D3.js**, JavaScript, HTML, and CSS.
 
 Traditional recipe websites usually present recipes primarily as text, often supported by a photograph. Some websites offer limited interactive features such as unit conversion, shopping lists, favourites, but the recipe itself is typically viewed as an individual item. The idea behind Recipe Explorer was to take a different approach: instead of only displaying recipes, the project allows users to **explore relationships and patterns across a collection of recipes and cuisines**.
